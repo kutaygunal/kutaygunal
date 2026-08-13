@@ -1,5 +1,5 @@
-<img align="left" width="240" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/engineering-loop-dark.gif#gh-dark-mode-only" alt="Kutay Gunal engineering loop animation">
-<img align="left" width="240" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/engineering-loop-light.gif#gh-light-mode-only" alt="Kutay Gunal engineering loop animation">
+<img align="left" width="280" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/engineering-loop-dark.gif#gh-dark-mode-only" alt="Kutay Gunal engineering loop animation">
+<img align="left" width="280" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/engineering-loop-light.gif#gh-light-mode-only" alt="Kutay Gunal engineering loop animation">
 
 ### Hey, I'm Kutay Gunal.
 
@@ -12,12 +12,12 @@ constraints, and software that has to explain *why* it reached a result.
 Rust, C++, CUDA, and Python are tools. Making difficult systems measurable and
 dependable is the job.
 
-<p>
+<br clear="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/kutaygunal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kutay_Gunal-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/kutaygunal?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Explore-my_projects-111827?style=flat-square&logo=github&logoColor=white"></a>
 </p>
-
-<br clear="left">
 
 ## What I'm building
 
@@ -42,13 +42,8 @@ what is.
 
 ## Toolbox
 
-```text
-Systems       Rust · C++17/20 · C · CUDA
-AI & data     Python · PyTorch · computer vision · local LLM integration
-Product       Qt · Swift/SwiftUI · C#/.NET · FastAPI
-Quality       CI/CD · fuzzing · differential testing · benchmarking
-Domains       developer tools · aerospace verification · semiconductors · healthcare
-```
+<img width="100%" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/toolbox-terminal-dark.png#gh-dark-mode-only" alt="Kutay's toolbox: systems, AI, product, and software quality tools">
+<img width="100%" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/toolbox-terminal-light.png#gh-light-mode-only" alt="Kutay's toolbox: systems, AI, product, and software quality tools">
 
 ## Also exploring
 
