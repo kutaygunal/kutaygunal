@@ -1,7 +1,7 @@
 <img align="left" width="280" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/engineering-loop-dark.gif#gh-dark-mode-only" alt="Kutay Gunal engineering loop animation">
 <img align="left" width="280" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/engineering-loop-light.gif#gh-light-mode-only" alt="Kutay Gunal engineering loop animation">
 
-### Hey, I'm Kutay Gunal.
+### Hey, I'm Kutay.
 
 Lead Software Engineer working where **AI applications** meet **systems
 software**.
