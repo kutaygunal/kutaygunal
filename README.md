@@ -33,21 +33,15 @@ something measurable, dependable, and useful.
 
 ## The engineering loop I trust
 
-```text
-understand the failure mode
-          ↓
-model the system and its constraints
-          ↓
-make behavior observable
-          ↓
-test against reality, not assumptions
-          ↓
-ship → measure → refine
-```
+<div align="center">
+  <img src="assets/engineering-loop.svg" alt="Kutay Gunal's engineering loop: understand, model, observe, test, then ship, measure, and refine" width="100%" />
+</div>
 
-That usually means typed boundaries, deterministic tests, reproducible
-benchmarks, useful failure messages, and documentation that says what is *not*
-supported as clearly as what is.
+The loop is deliberately circular: every release creates evidence, and that
+evidence sharpens the next problem definition. In practice, this means typed
+boundaries, deterministic tests, reproducible benchmarks, useful failure
+messages, and documentation that says what is *not* supported as clearly as
+what is.
 
 ## Toolbox
 
@@ -75,4 +69,3 @@ starting points.
 <div align="center">
   <sub>Curiosity starts the project. Evidence earns the confidence.</sub>
 </div>
-
