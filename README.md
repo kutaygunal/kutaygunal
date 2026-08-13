@@ -1,24 +1,23 @@
-<div align="center">
-  <img src="assets/profile-banner.svg" alt="Kutay Gunal — AI applications, systems software, and performance engineering" width="100%" />
-</div>
+<img align="left" width="240" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/engineering-loop-dark.gif#gh-dark-mode-only" alt="Kutay Gunal engineering loop animation">
+<img align="left" width="240" src="https://raw.githubusercontent.com/kutaygunal/kutaygunal/refs/heads/main/assets/engineering-loop-light.gif#gh-light-mode-only" alt="Kutay Gunal engineering loop animation">
 
-# Hi, I'm Kutay.
+### Hey, I'm Kutay Gunal.
 
-I'm **Kutay Gunal** (`@kutaygunal`), a Lead Software Engineer building at the
-intersection of **AI applications**, **systems software**, and **performance
-engineering**.
+Lead Software Engineer working where **AI applications** meet **systems
+software**.
 
 I like problems with sharp edges: unsafe inputs, large datasets, hardware
-constraints, operational failure modes, and software that has to explain *why*
-it reached a result. My work moves between Rust, modern C++, CUDA, Python, and
-product engineering—but the goal stays the same: turn a difficult system into
-something measurable, dependable, and useful.
+constraints, and software that has to explain *why* it reached a result.
 
-<p align="center">
+Rust, C++, CUDA, and Python are tools. Making difficult systems measurable and
+dependable is the job.
+
+<p>
   <a href="https://www.linkedin.com/in/kutaygunal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kutay_Gunal-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/kutaygunal?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Explore-my_projects-111827?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://github.com/kutaygunal/kzip"><img alt="Featured project kzip" src="https://img.shields.io/badge/Featured-kzip-22D3EE?style=flat-square&logo=rust&logoColor=111827"></a>
 </p>
+
+<br clear="left">
 
 ## What I'm building
 
@@ -31,11 +30,9 @@ something measurable, dependable, and useful.
 | **[PatchOrchestrator](https://github.com/kutaygunal/PatchOrchestrator)** | A multi-layer control plane for planning, supervising, pausing, and recovering fleet-wide software patch rollouts. |
 | **[Healthcare Revenue Risk Predictor](https://github.com/kutaygunal/healthcare-revenue-risk-predictor)** | A PyTorch system combining structured claims and clinical text to predict denial risk and missed billing opportunities. |
 
-## The engineering loop I trust
+## How I work
 
-<div align="center">
-  <img src="assets/engineering-loop.svg" alt="Kutay Gunal's engineering loop: understand, model, observe, test, then ship, measure, and refine" width="100%" />
-</div>
+> **Understand** → **Model** → **Observe** → **Test** → **Ship** → **Measure** → **Refine** ↺
 
 The loop is deliberately circular: every release creates evidence, and that
 evidence sharpens the next problem definition. In practice, this means typed
